@@ -1,0 +1,11 @@
+﻿requests
+beautifulsoup4
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+langchain-google-genai
+langchain-core
+python-dotenv
+streamlit
